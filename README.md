@@ -7,3 +7,6 @@ We were asked to implement a grade book to keep track student grades for several
 
 
 https://user-images.githubusercontent.com/83150680/232956712-5c18e14b-fe38-4126-82f0-833990b6b6c5.png![ERD](https://user-images.githubusercontent.com/83150680/232956945-5c52afd9-6e79-4d7c-8c11-851a73add824.png)
+
+
+![ERD]([https://user-images.githubusercontent.com/83150680/232956945-5c52afd9-6e79-4d7c-8c11-851a73add824.png])
