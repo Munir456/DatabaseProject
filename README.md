@@ -8,4 +8,4 @@ We were asked to implement a grade book to keep track student grades for several
 
 
 
-[ERD]!([https://user-images.githubusercontent.com/83150680/232956945-5c52afd9-6e79-4d7c-8c11-851a73add824.png])
+![ERD]([https://user-images.githubusercontent.com/83150680/232956945-5c52afd9-6e79-4d7c-8c11-851a73add824.png])
